@@ -1,1 +1,1 @@
-unction that computes the absolute value of an integer
+function that prints the last digit of a number
