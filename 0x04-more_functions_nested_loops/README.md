@@ -1,1 +1,1 @@
-function that checks for a digit 0-9
+function that multiplies two integers
