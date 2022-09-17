@@ -1,1 +1,1 @@
-code that is causing the output to go into an infinite loop
+ prints out the largest of three numbers
